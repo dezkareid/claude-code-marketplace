@@ -15,6 +15,12 @@
       "name": "marketplace-manager",
       "description": "A collection of tools to create a marketplace or plugins for claude code",
       "version": "0.0.1"
+    },
+    {
+      "source": "./plugins/performance-auditor",
+      "name": "performance-auditor",
+      "description": "A collection of agents and tools to make performance auditories",
+      "version": "0.0.1"
     }
   ]
 }
