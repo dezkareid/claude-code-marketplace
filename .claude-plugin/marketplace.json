@@ -1,0 +1,20 @@
+{
+  "name": "dezkareid-marketplace",
+  "owner": {
+    "name": "Joel Humberto Gomez Paredes",
+    "email": "elmaildeldezkareid@gmail.com",
+    "url": "https://github.com/dezkareid"
+  },
+  "metadata": {
+    "description": "Dezkareid AI Tooling",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "source": "./plugins/marketplace-manager",
+      "name": "marketplace-manager",
+      "description": "A collection of tools to create a marketplace or plugins for claude code",
+      "version": "0.0.1"
+    }
+  ]
+}

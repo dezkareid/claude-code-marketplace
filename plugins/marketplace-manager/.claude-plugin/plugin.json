@@ -1,0 +1,9 @@
+{
+  "name": "marketplace-manager",
+  "description": "A collection of tools to create a marketplace or plugins for claude code",
+  "version": "0.0.1",
+  "author": {
+    "name": "Joel Humberto Gomez Paredes",
+    "email": "elmaildeldezkareid@gmail.com"
+  }
+}
