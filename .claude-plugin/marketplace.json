@@ -7,7 +7,7 @@
   },
   "metadata": {
     "description": "Dezkareid AI Tooling",
-    "version": "0.0.1"
+    "version": "0.0.2"
   },
   "plugins": [
     {
@@ -20,7 +20,7 @@
       "source": "./plugins/performance-auditor",
       "name": "performance-auditor",
       "description": "A collection of agents and tools to make performance auditories",
-      "version": "0.0.1"
+      "version": "0.0.2"
     }
   ]
 }
