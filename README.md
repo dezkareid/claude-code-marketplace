@@ -6,5 +6,5 @@ Claude Code Marketplace for my AI configurations
 Inside of claude code console run
 
 ```
-/plugin add marketplace dezkareid/claude-code-marketplace
+/plugin marketplace add dezkareid/claude-code-marketplace
 ```
